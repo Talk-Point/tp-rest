@@ -6,6 +6,7 @@
         "Talk-Point",
         "TPREST"
     ],
+    "version": "1.0.0",
     "homepage": "https://github.com/Talk-Point/TPREST",
     "license": "MIT",
     "authors": [
